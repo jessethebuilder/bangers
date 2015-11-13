@@ -78,7 +78,7 @@ gem 'sdad', '0.0.1', :git => 'https://github.com/jessethebuilder/sdad'
 gem 'meta_farm', '0.0.1', :git => 'https://github.com/jessethebuilder/meta_farm'
 # gem 'meta_farm', '0.0.1', :path => 'c:/users/bucky/desktop/jesseweb/meta_farm'
 
-gem 'farm_gals', '0.0.1', :git => 'https://github.com/jessethebuilder/farm_gals'
+# gem 'farm_gals', '0.0.1', :git => 'https://github.com/jessethebuilder/farm_gals'
 # gem 'farm_gals', '0.0.1', :path => 'c:\Users\Bucky\Desktop\jesseweb\farm_gals'
 
 

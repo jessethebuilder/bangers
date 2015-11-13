@@ -25,16 +25,6 @@ GIT
       sass-rails (~> 5.0.1)
 
 GIT
-  remote: https://github.com/jessethebuilder/farm_gals
-  revision: f826e1f4bbdc5c53bacb678a1357179b9327d4cb
-  specs:
-    farm_gals (0.0.1)
-      carrierwave
-      fog
-      mini_magick
-      rails (~> 4.2.3)
-
-GIT
   remote: https://github.com/jessethebuilder/farm_shed
   revision: fdbb32de42eb259b1143d41a04867bafa1b7caa3
   specs:
@@ -492,7 +482,6 @@ DEPENDENCIES
   devise
   factory_girl_rails
   faker
-  farm_gals (= 0.0.1)!
   farm_shed (= 0.0.2)!
   farm_slugs!
   fog
